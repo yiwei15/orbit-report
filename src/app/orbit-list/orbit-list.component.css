@@ -18,6 +18,15 @@ table {
   background:rgb(182, 233, 182);
 }
 
+.strip-odd  {
+  color: #111;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 1000px;
+  background:rgb(65, 107, 155);
+}
+
 .header-row {
     background: #34495E;
     color: #fff
